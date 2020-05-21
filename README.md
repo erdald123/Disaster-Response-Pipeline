@@ -93,7 +93,3 @@ There are three main foleders:
 3. app
 - run.py: Python script to integrate all above files and to start the web application
 - templates contains html file for the web applicatin
-
-
-https://github.com/erdald123/Disaster-Response-Pipeline
-https://medium.com/@erdald/disaster-response-pipeline-project-e784ddf3880a
